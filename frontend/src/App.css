@@ -3,12 +3,11 @@
 }
 
 body {
-  color:"#ffffff";
+  color:"#494949";
 
 }
 .nav {
   
-  width: 100%;
   height: 7%;
 
 }
@@ -22,7 +21,21 @@ body {
 
 .inner {
   float: left;
-  width: 33%;
+  width: 15%;
   text-align: center;
   line-height: 30px;
+  margin-top: 1%;
+  margin-bottom: 10px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.mid {
+  width: 100%;
+  margin-top: 20%;
+  height: 20px;
+  color:aqua
 }
