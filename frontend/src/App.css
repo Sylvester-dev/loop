@@ -34,8 +34,34 @@ body {
 }
 
 .ll {
+  display: flex;
+  position: absolute;
   width: 100%;
-  margin-top: 10%;
+  margin-top: 7%;
   height: 20px;
   color:aqua
+}
+
+
+/* Card.jsx */
+
+.main{
+  
+  height: 80px;
+  width: 23%;
+  margin-right: 1%;
+  margin-left: 1%;
+  background-color: blueviolet;
+  border-radius: 10px;
+}
+
+.main:hover {
+  background-color: brown;
+}
+
+.row {
+  text-align: center;
+  margin-top: 20px;
+  text-decoration: none;
+  color: aliceblue;
 }
