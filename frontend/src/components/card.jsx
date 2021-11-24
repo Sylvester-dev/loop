@@ -5,7 +5,7 @@ export default function card() {
     return (
         <>
         <div>
-            <h1 style={{marginTop:"300px"}}>svsdvdfvdffvbfjksbfijsb</h1>
+            <h1 >svsdvdfvdffvbfjksbfijsb</h1>
         </div>
         </>
     )
