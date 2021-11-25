@@ -37,7 +37,7 @@ body {
   display: flex;
   position: absolute;
   width: 100%;
-  margin-top: 7%;
+  margin-top: 9%;
   height: 20px;
   color:aqua
 }
@@ -45,7 +45,7 @@ body {
 
 /* Card.jsx */
 
-.main{
+.main {
   
   height: 80px;
   width: 23%;
@@ -64,4 +64,13 @@ body {
   margin-top: 20px;
   text-decoration: none;
   color: aliceblue;
+}
+
+/* VideoCard.jsx */
+
+.dd {
+  margin-top: 24%;
+  position: absolute;
+  display: flex;
+  
 }
