@@ -2,6 +2,7 @@ import './App.css';
 
 import Card from './components/Card';
 import Navbar from './components/Navbar';
+import VideoCard from './components/VideoCard'; 
 
 function App() {
 
@@ -15,6 +16,10 @@ function App() {
         <Card Name={"Shop"} />
         <Card Name={"Esports"} />
         <Card Name={"Music"} />
+      </div>
+      <div className="dd">
+        <VideoCard />
+        <VideoCard />
       </div>
     </>
   );
