@@ -1,7 +1,7 @@
 import React from 'react'
 import '../App.css'
 
-export default function Card(props) {
+export default function Tag(props) {
     return (
       <>
         <div className="main">
